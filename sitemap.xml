@@ -175,4 +175,9 @@
     <loc>/courses/</loc>
   </url>
   
+  <url>
+    <loc>/authors/netaro/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
